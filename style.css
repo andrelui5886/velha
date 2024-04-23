@@ -1,0 +1,34 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(255, 0, 0);
+    width: 1000px;
+    padding: 500px;
+    background-color: rgb(100, 10, 185);
+    text-align: center;
+}
+
+.quadrado{
+    width: 200px;
+    height: 200px;
+    font-size: 100px;
+    text-align: center;
+    background-color: rgb(238, 255, 0);
+    color: rgb(153, 0, 255);
+    border-radius: 100px;
+}
+.jogo{
+   margin: 0 auto;
+   border-radius: 10px;
+}
+.titulo{
+    text-align: center;
+}
+.botao{
+    background-color: rgb(238, 255, 0);
+    color: rgb(153, 0, 255);
+    margin-top: 20px;
+    padding: 20px;
+    width: 250px;
+    font-size: 25px;
+}
